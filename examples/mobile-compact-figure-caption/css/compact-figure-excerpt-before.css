@@ -1,0 +1,53 @@
+/*
+ * Excerpt from the portfolio site's global stylesheet (app/globals.css).
+ * State: before the mobile compact-figure caption fix (October 2026).
+ * Not a runnable stylesheet — shown for documentation only.
+ * Omits unrelated rules elsewhere in the file.
+ */
+
+.case-study-page .notion-image--compact {
+  display: grid;
+  grid-template-columns: 285px minmax(0, 1fr);
+  align-items: start;
+  column-gap: 40px;
+  width: 100%;
+  max-width: var(--cs-reading-max);
+  margin-inline: auto;
+}
+.case-study-page .notion-image--compact img {
+  width: 100%;
+  max-width: 285px;
+  height: auto;
+  display: block;
+}
+.case-study-page .notion-image--compact .image-caption--compact {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  text-align: left;
+}
+@media (max-width: 900px) {
+  .case-study-page .notion-image--compact {
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+  }
+  .case-study-page .notion-image--compact img {
+    max-width: 255px;
+    margin-inline: auto;
+  }
+  .case-study-page .image-caption--compact {
+    flex: none;
+    width: min(100%, 460px);
+    max-width: none;
+    margin: 0;
+  }
+}
+@media (max-width: 600px) {
+  .case-study-page .notion-image--compact img {
+    max-width: 222px;
+  }
+  .case-study-page .image-caption--compact {
+    width: min(100%, 320px);
+  }
+}
