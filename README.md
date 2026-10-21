@@ -9,5 +9,6 @@ I'm **Angeline Espiritu**, a product designer who implements and validates impro
 | Topic | Summary |
 |-------|---------|
 | [Mobile compact-figure caption](./examples/mobile-compact-figure-caption/) | Fixed unreadable side-by-side captions and horizontal overflow on narrow viewports in a case study (October 2026). |
+| [Staged refresh: theme consolidation](./examples/staged-refresh-theme-consolidation/) | Brought case studies onto the homepage’s light palette. Complete, and not yet released to the live site (October 2026). |
 
 Each example includes the problem, design decisions, code excerpts, screenshots, validation notes, and a link to the live page where applicable.
