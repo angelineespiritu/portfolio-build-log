@@ -10,6 +10,7 @@ I’m Angeline Espiritu, I built this portfolio in Cursor using AI-assisted deve
 
 | Topic | Summary |
 |-------|---------|
+| [Refining the case-study reading experience](./examples/case-study-reading-column/) | Brought the Reporting case study’s figures, captions, introduction, and embedded prototype into one reading flow. |
 | [Staged refresh: theme consolidation](./examples/staged-refresh-theme-consolidation/) | Adapted case studies from dark to light using shared design tokens, with production isolation for staged updates (October 2026). |
 | [Mobile compact-figure caption](./examples/mobile-compact-figure-caption/) | Fixed unreadable side-by-side captions and horizontal overflow on narrow viewports in a case study (October 2026). |
 
