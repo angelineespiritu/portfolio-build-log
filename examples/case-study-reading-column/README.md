@@ -10,7 +10,7 @@ The prototype I had placed in Notion, under “Explore the workflow,” was miss
 
 ## What I decided
 
-I brought the figures, captions, title, and introductory information onto the existing reading column. Articles kept their own treatment, and typography stays a separate task.
+I brought the figures, captions, title, and introductory information onto the existing reading column. Articles kept their own treatment.
 
 Captions are centered across the column, including under compact images. Those images stay small and can still be enlarged. The title aligns with the paragraph. Outcomes remain three columns while they read comfortably, then stack. I bottom-aligned the outcome pairs so their labels line up without opening gaps beneath shorter values. Role, Timeline, and Skills are one list at every width, value or tags first.
 
@@ -59,3 +59,7 @@ After: the image stays compact while its caption uses the reading column.
 Cursor checked the rendered page across desktop, tablet, and mobile viewport widths. The spacing I had approved held, and the page did not scroll sideways. I enlarged a compact image, closed it with Escape and scrolled, and opened, closed, and used the contents navigation.
 
 The published prototype loads beneath “Explore the workflow.”
+
+![Title, outcomes, and project context on the reading column today](./assets/after-intro-top-1440.png)
+
+Matching widths was not the whole judgment. I still had to decide how the overview prose and the reporting figure read together, and the title block above sets the same problem at a larger scale: outcomes, labels, and tags have to feel like one introduction, not separate bands. Typography is the next pass, and changes to font metrics and wrapping may pull spacing and responsive layout back into question—starting with the block in this frame.
