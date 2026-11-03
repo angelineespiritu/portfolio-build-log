@@ -30,21 +30,21 @@ I also asked Cursor to follow the missing prototype from the new case-study data
 
 Before.
 
-![Introduction before, wide window](./assets/before-intro-1440.png)
+![Overview before, wide window](./assets/before-body-overview.jpg)
 
 After.
 
-![Introduction after, wide window](./assets/after-intro-1440.png)
+![Overview after, wide window](./assets/after-body-overview.png)
 
 ### Narrow window
 
 Before.
 
-![Introduction before, narrow window](./assets/before-intro-390.png)
+![Overview before, narrow window](./assets/before-body-overview-390.png)
 
 After.
 
-![Introduction after, narrow window](./assets/after-intro-390.png)
+![Overview after, narrow window](./assets/after-body-overview-390.png)
 
 ### Compact caption
 
