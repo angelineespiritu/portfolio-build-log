@@ -27,7 +27,7 @@ Tracing the missing prototype showed that the renderer discarded embed blocks. S
 
 ## What I checked
 
-**Earlier** Overview frame.** The figure runs wider than the paragraphs, and the side list sits well to the left of the text. This file is 1024×590 pixels. I do not have a later capture of this same frame at the same size, so I am not treating it as the same window as the Workflow frames below.
+**Earlier** Overview frame. The figure runs wider than the paragraphs, and the side list sits well to the left of the text. This file is 1024×590 pixels. I do not have a later capture of this same frame at the same size, so I am not treating it as the same window as the Workflow frames below.
 
 ![Earlier Overview frame. The figure is wider than the paragraphs.](./assets/before-body-overview.jpg)
 
