@@ -10,7 +10,7 @@ I’m Angeline Espiritu, I built this portfolio in Cursor using AI-assisted deve
 
 | Topic | Summary |
 |-------|---------|
-| [Refining the case-study reading experience](./examples/case-study-reading-column/) | The page felt unbalanced, with too much space on the right. The column was already centered, so I brought the side list closer and kept it available down to 1246px. |
+| [Refining the case-study reading experience](./examples/case-study-reading-column/) | I used AI to trace visual imbalances to their underlying layout rules, then aligned text and visuals, improved desktop navigation, and simplified the implementation—guided by visual review and responsive checks. |
 | [Staged refresh: theme consolidation](./examples/staged-refresh-theme-consolidation/) | Adapted case studies from dark to light using shared design tokens, with production isolation for staged updates (October 2026). |
 | [Mobile compact-figure caption](./examples/mobile-compact-figure-caption/) | Fixed unreadable side-by-side captions and horizontal overflow on narrow viewports in a case study (October 2026). |
 
