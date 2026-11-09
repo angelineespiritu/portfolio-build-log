@@ -18,9 +18,9 @@ Earlier layout. The figure extends past the paragraphs, and the TOC sits far fro
 
 ![Earlier layout. The figure extends past the paragraphs, and the TOC sits far from the column.](./assets/before-body-overview.jpg)
 
-Current layout. In Workflow, the diagram matches the width of the paragraphs, and the TOC sits beside the column.
+Current layout, same section. The figure lines up with the paragraphs, and the surrounding prose stays in view.
 
-![Current layout. The Workflow diagram shares the column, and the TOC sits beside it.](./assets/current-workflow-1680.png)
+![Current layout. The Overview figure lines up with the paragraphs.](./assets/after-body-overview.png)
 
 Current layout, on a narrower desktop. The TOC is still beside the column.
 
@@ -39,9 +39,5 @@ Current caption. The image stays small, and the caption is centered across the r
 ![Current layout. The compact image stays small, and the caption uses the column.](./assets/after-compact-caption-1024.png)
 
 Cursor checked the rendered page at desktop, tablet, and mobile widths. The spacing I had approved held, and the page did not scroll sideways. In my own browser I opened, closed, and used the table of contents, enlarged a compact image, closed it with Escape, and scrolled.
-
-Current layout. This is the introduction I will return to for type.
-
-![Current layout. The title, outcomes, and project details.](./assets/current-top-1440.png)
 
 This pass reinforced the value of investigating a visual imbalance before changing positions: the body was centered, but its relationship with the navigation needed work. Typography is next, followed by another review of wrapping, spacing, and layout.
