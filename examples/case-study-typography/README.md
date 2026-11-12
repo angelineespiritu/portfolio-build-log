@@ -23,9 +23,19 @@ Reusing the site’s existing font palette kept this pass lean.
 
 I asked Cursor to inspect the grid. The three columns were already equal, and I kept those proportions while tightening the copy. In the middle column, ‘Diagnostic’ names the capability in one word, and ‘Reporting capability’ gives it context. The pair is easy to scan alongside the two numeric results.
 
-## Shorter outcomes kept the full TOC visible at 1200px
+## Shorter copy and tighter spacing kept the full TOC visible at 1200px
 
-With the full TOC visible at 1200px, the longest outcome wrapped. After shortening the outcome copy and tightening the column spacing, I checked that all three outcome values fit on one line and the reading column stayed centered.
+With the full TOC visible at 1200px, ‘40 min → 20 min’ wrapped. After I shortened it to ‘40 → 20 min’ and tightened the column spacing, I verified that all three outcome values fit on one line and the reading column stayed centered.
+
+Both previews use the revised outcome copy. Compare the title, outcome typography, and project context.
+
+Current
+
+![Current](./assets/current-desktop.png)
+
+Proposed
+
+![Proposed](./assets/proposed-desktop.png)
 
 ```mermaid
 flowchart LR
@@ -35,13 +45,3 @@ flowchart LR
 How the desktop TOC sits beside the reading column.
 
 The larger break before Overview marks the start of the main case study, and Skills sits beside Role and Timeline when the pills fit, moving below when the space is tighter.
-
-Compare the title, outcome values, and project context in the same desktop view.
-
-Current
-
-![Current](./assets/current-desktop.png)
-
-Proposed
-
-![Proposed](./assets/proposed-desktop.png)
