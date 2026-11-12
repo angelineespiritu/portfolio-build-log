@@ -2,6 +2,21 @@
 
 [Refining the case-study reading experience](https://github.com/angelineespiritu/portfolio-build-log/blob/main/examples/case-study-reading-column/README.md) established a centered reading column with the side TOC beside it.
 
+## I audited the site’s typography before changing it
+
+I checked the homepage, the published case study, and an article before I changed any type.
+
+| Typeface | Where it was used before this pass | What it did |
+|---|---|---|
+| Fraunces | Homepage hero, name, contact heading, and writing-card titles. The nav wordmark on the homepage and case studies. | Display type, and the name in the navigation. |
+| DM Sans | Case-study body, subsection headings, tables, and the next-study title. Article excerpts and sidebar notes. | Reading text on case studies, and the shorter text around an article. |
+| Space Grotesk | Case-study titles, section headings, and outcome values. Homepage about text, work titles, and the shared “Work with me” button. | The sans used for case-study display lines and homepage interface text. |
+| Space Mono | Case-study labels, skill pills, Role and Timeline values, and the table of contents. Homepage section labels, indexes, and links. | Small labels and navigation. |
+| Cormorant Garamond | Article titles and drop caps. | Display type for articles. |
+| Libre Caslon Text | Article prose. | The reading face for articles. |
+
+I started with the case studies and used this existing palette as the starting point for the live comparison.
+
 ## I built a switch to compare type on the same page
 
 I asked Cursor to build the switch in the local preview so I could judge how the title, headings, outcomes, labels, and body copy worked together on the same case-study page.
