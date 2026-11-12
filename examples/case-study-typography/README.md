@@ -19,11 +19,13 @@ Seeing Fraunces and Space Grotesk together helped me decide that they pulled the
 
 Reusing the site’s existing font palette kept this pass lean.
 
-## Checking the hierarchy on smaller screens
+## The columns were equal. The copy made them look uneven.
 
-I asked Cursor to inspect the outcome grid. The columns were already equal, so I kept those proportions and tightened the copy while adjusting the layout for smaller screens. At 1200px, I verified that all three outcome values fit on one line with the full side TOC visible and the reading column centered. On mobile, the same reading order carries through: the outcomes stack, then Role, Timeline, and Skills stack beneath them.
+The outcome row looked uneven, so I asked Cursor to inspect the grid. The three columns were already equal. I kept those proportions and adjusted the wording. In the middle column, “Diagnostic” names the capability, and “Reporting capability” gives it context alongside the two numeric results.
 
-## Desktop comparison and mobile result
+## The full TOC stayed visible at 1200px
+
+I tested the Proposed layout at 1200px because I wanted the full side TOC to remain useful on smaller desktops. With it visible, the longest outcome value wrapped. I checked the revised copy and column spacing together and verified that all three outcome values fit on one line, with the full TOC visible and the reading column still centered.
 
 Compare how the title, outcomes, and project context read in each treatment.
 
@@ -34,10 +36,6 @@ Current
 Proposed
 
 ![Proposed](./assets/proposed-desktop.png)
-
-Proposed on mobile. Outcomes stack above Role, Timeline, and Skills.
-
-![Proposed on mobile. Outcomes stack above Role, Timeline, and Skills.](./assets/proposed-mobile-390.png)
 
 ```mermaid
 flowchart LR
