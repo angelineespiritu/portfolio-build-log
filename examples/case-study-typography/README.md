@@ -4,11 +4,11 @@
 
 ## I built a switch to compare type on the same page
 
-I asked Cursor to build a Current / Proposed switch in the local preview. I used it to judge how the title, headings, outcomes, labels, and body copy worked together. I started with the case studies and drew from fonts already used across the site.
+I asked Cursor to build the switch in the local preview so I could judge how the title, headings, outcomes, labels, and body copy worked together on the same case-study page.
 
 ## Fraunces leads the title. DM Sans carries the reading.
 
-Once I saw Fraunces and Space Grotesk together in the preview, they felt like they were pulling the page in different directions. I gave Fraunces the title and moved the section headings and outcome values to DM Sans, which already carried the body copy.
+Seeing Fraunces and Space Grotesk together helped me decide that they pulled the page in different directions. I gave Fraunces the title, extended DM Sans from body copy to headings and values, and kept Space Mono for labels, skill pills, and navigation.
 
 | Typeface | Role in the Proposed case study |
 |---|---|
@@ -19,15 +19,13 @@ Once I saw Fraunces and Space Grotesk together in the preview, they felt like th
 
 Reusing the site’s existing font palette kept this pass lean.
 
-## The columns were equal. The copy made them look uneven.
+## Checking the hierarchy on smaller screens
 
-I asked Cursor to inspect the grid. The three columns were already equal, and I kept those proportions while tightening the copy. In the middle column, ‘Diagnostic’ names the capability in one word, and ‘Reporting capability’ gives it context. The pair is easy to scan alongside the two numeric results.
+I asked Cursor to inspect the outcome grid. The columns were already equal, so I kept those proportions and tightened the copy while adjusting the layout for smaller screens. At 1200px, I verified that all three outcome values fit on one line with the full side TOC visible and the reading column centered. On mobile, the same reading order carries through: the outcomes stack, then Role, Timeline, and Skills stack beneath them.
 
-## Shorter copy and tighter spacing kept the full TOC visible at 1200px
+## Desktop comparison and mobile result
 
-With the full TOC visible at 1200px, ‘40 min → 20 min’ wrapped. After I shortened it to ‘40 → 20 min’ and tightened the column spacing, I verified that all three outcome values fit on one line and the reading column stayed centered.
-
-Both previews use the revised outcome copy. Compare the title, outcome typography, and project context.
+Compare how the title, outcomes, and project context read in each treatment.
 
 Current
 
@@ -37,6 +35,10 @@ Proposed
 
 ![Proposed](./assets/proposed-desktop.png)
 
+Proposed on mobile. Outcomes stack above Role, Timeline, and Skills.
+
+![Proposed on mobile. Outcomes stack above Role, Timeline, and Skills.](./assets/proposed-mobile-390.png)
+
 ```mermaid
 flowchart LR
   left["Left margin"] --- toc["TOC"] --- gap["Gap"] --- column["Reading column"] --- right["Right margin"]
@@ -44,4 +46,6 @@ flowchart LR
 
 How the desktop TOC sits beside the reading column.
 
-The larger break before Overview marks the start of the main case study, and Skills sits beside Role and Timeline when the pills fit, moving below when the space is tighter.
+## What’s next
+
+My priority is to improve how the case studies present the work. I’ll finish revising the case-study content, then push the light theme, reading layout, and typography together as one update. In a later pass, I’ll review the homepage and article pages for consistency.
